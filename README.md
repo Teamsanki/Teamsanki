@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @Teamsanki
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Teamsanki/Teamsanki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+B-TECH CSE STUDENT 
+—————————————
+PYTHON-JAVA-C-C++
+—————————————
+20 YEARS OLD
+—————————————
+TRAGET-APP DEVELOPMENT 
+————————————————-
+NOW I MAKING TELEGRAM BOTS
+——————————————————
+MUSIC BOT
