@@ -4,7 +4,7 @@
   
 <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=💀+𝐓𝐇𝐄+𝐓𝐄𝐀𝐌+𝐒𝐀𝐍𝐊𝐈+☠️">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=💀+ʙ-ᴛᴇᴄʜ+ᴄꜱᴇ+ꜱᴛᴜᴅᴇɴᴛ+\n—————————————\n+ᴘʏᴛʜᴏɴ+ᴊᴀᴠᴀ+𝗛𝗧𝗠𝗟+\n—————————————\n+20+ʏᴇᴀʀꜱ+ᴏʟᴅ\n+—————————————\n+ᴛʀᴀɢᴇᴛ+ᴀᴘᴘ+ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ\n+————————————————-\n+☠️">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐒𝐀𝐍𝐊𝐈+𝐗𝐃+𝐏𝐑𝐎𝐅𝐈𝐋𝐄">
 
 <!--
 **Teamsanki/Teamsanki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
