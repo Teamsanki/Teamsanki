@@ -1,8 +1,8 @@
  ㅤ ㅤ ㅤㅤ[![GIF](https://github.com/Teamsanki/Teamsanki/blob/main/Teamsanki.gif)](https://github.com/Teamsanki)
-   [![𝐓𝐄𝐀𝐌 𝐃𝐀𝐗𝐗](https://github-stats-alpha.vercel.app/api?username=Teamsanki "Teamsanki")](https://github-stats-alpha.vercel.app/api?username=Teamsanki "Teamsanki")
+   [![𝐓𝐄𝐀𝐌 𝐒𝐀𝐍𝐊𝐈](https://github-stats-alpha.vercel.app/api?username=Teamsanki "Teamsanki")](https://github-stats-alpha.vercel.app/api?username=Teamsanki "Teamsanki")
                                                           
   
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=🌿+𝐓𝐇𝐄+𝐓𝐄𝐀𝐌+𝐃𝐀𝐗𝐗+🌱">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=🌿+𝐓𝐇𝐄+𝐓𝐄𝐀𝐌+𝐒𝐀𝐍𝐊𝐈+🌱">
 
 
 <!--
