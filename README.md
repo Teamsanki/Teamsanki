@@ -29,7 +29,6 @@ You can click the Preview link to take a look at your changes.
   [![Github Trophies](https://github-profile-trophy.vercel.app/?username=Teamsanki&theme=transparent&no-bg=true&margin-w=15&margin-h=10&row=1&column=6&count_private=true)](https://Teamsanki.me)
   
 
-<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Teamsanki&show_icons=true&locale=en&layout=compact" alt="Teamsanki" /></p>
 
 
 
